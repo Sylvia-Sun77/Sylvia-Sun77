@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Zhiyu (Sylvia) Sun 👋
 
-<!--
-**Sylvia-Sun77/Sylvia-Sun77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with 6+ years of experience building large-scale enterprise systems, now focused on **distributed systems** and **GenAI infrastructure**.
 
-Here are some ideas to get you started:
+- 🛠️ Backend Co-op @ **SVC** — building GenAI test automation infrastructure in Python
+- 🎓 MS in Software Engineering @ **Northeastern University**, graduating **December 2026**
+- ✈️ Previously: 6+ years as Systems Engineer at **Beijing Daxing International Airport**, leading SAP/ERP integration across 20+ subsystems
+- 🌎 Open to U.S. **SDE / Backend / Platform** roles — new-grad and experienced
+- 📍 Based in Boston, MA · Open to relocation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧰 Tech stack
+**Languages:** Python · Java · TypeScript · SQL
+**Backend & Cloud:** FastAPI · PostgreSQL · Redis · AWS · Terraform · Docker · Kubernetes
+**AI / ML:** LangChain · OpenAI · LLM evaluation · RAG pipelines
+**Tools:** Git · GitHub Actions · Linux · pytest
+
+#### 📫 Reach me
+www.linkedin.com/in/zhiyu-sun-57688b353 · ✉️ sun.z2@northeastern.edu
+
+---
+<sub>PMP · Senior IT Project Manager (China)</sub>
