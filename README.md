@@ -18,4 +18,4 @@ Backend Software Engineer with 6+ years of experience building large-scale enter
 www.linkedin.com/in/zhiyu-sun-57688b353 · ✉️ sun.z2@northeastern.edu
 
 ---
-<sub>PMP · Senior IT Project Manager (China)</sub>
+<sub>PMP · Senior IT Project Manager (China Soft Exam, Senior Level)</sub>
